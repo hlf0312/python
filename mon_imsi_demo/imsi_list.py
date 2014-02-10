@@ -1,11 +1,10 @@
-
 class imsi_list(object):
 
     
     def __init__(self):
         self.imsi_list = []
         self.imsi_list_str = ''
-        self.imsi_list_max_len = 8
+        self.imsi_list_max_len = 16
    
     
     def add_imsi(self, imsi):
