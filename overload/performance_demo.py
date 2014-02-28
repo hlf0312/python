@@ -199,7 +199,7 @@ def open_file(arg):
 
 open_entry_dic = {'cfcp'        :   cfcp_open_entry,
                  'uscp_A'       :   uscp_A_open_entry,
-                 'uscp_B'       :   uscp_A_open_entry,
+                 'uscp_B'       :   uscp_B_open_entry,
                  'wo_cac_queue' :   wo_cac_queue_open_entry,
                  'sp_cac_queue' :   sp_cac_queue_open_entry,
                  'wo_cac_load'  :   wo_cac_load_open_entry,
